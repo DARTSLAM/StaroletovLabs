@@ -1,0 +1,9 @@
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\bin\Debug\CityLab.exe.config
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\bin\Debug\CityLab.exe
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\bin\Debug\CityLab.pdb
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\obj\Debug\CityLab.csprojResolveAssemblyReference.cache
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\obj\Debug\CityLab.Form1.resources
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\obj\Debug\CityLab.Properties.Resources.resources
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\obj\Debug\CityLab.csproj.GenerateResource.Cache
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\obj\Debug\CityLab.exe
+c:\users\darts_000\documents\visual studio 2012\Projects\CityLab\CityLab\obj\Debug\CityLab.pdb
